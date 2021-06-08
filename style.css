@@ -1,0 +1,97 @@
+
+ 
+
+h1{
+
+  color:#ff2e63;
+  
+}
+
+.header{
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.greet{
+  text-align: center;
+  justify-content: space-around;
+  margin: 30px;
+  font-size: xx-large;
+  
+}
+.item{
+  margin: 100px;
+  text-align: center;
+  font-size: xx-large;
+  
+}
+.footer{
+  text-align: center;
+  color: #ff2e63;
+  font-size: xx-large;
+  margin: 120px;
+   
+}
+
+.info{
+  color: #252a34;
+  display:flex;
+  justify-content: space-evenly;
+  font-size: x-large;
+}
+.form{
+  display:flex;
+  justify-content: space-evenly;
+  margin: 100px;
+  position: sticky;
+}
+.age{
+  display:flex;
+  justify-content: space-evenly;
+  position: sticky;
+  margin: 30px;
+}
+.vehicle{
+  display:flex;
+  justify-content: space-evenly;
+  position: sticky;
+  margin: 40px;
+}
+.abc{
+  display:flex;
+  text-align: center;
+  justify-content: space-around;
+  margin: 20px;
+  font-size: large;
+}
+.no{
+  display:flex;
+  justify-content: space-around;
+  margin: 30px;
+}
+.submit{
+  display:flex;
+  justify-content: space-around;
+  margin: 70px;
+  font-size: xx-large
+  ;
+}
+.gps{
+  margin: 100px;
+  text-align: center;
+  font-size: x-large;
+}
+.app{
+  text-align: center;
+  margin: 20px;
+}
+.ava{
+  text-align: center;
+  font-size: x-large;
+  margin: 60px;
+}
+.map{
+  margin: 100px;
+  text-align: center;
+  font-size: x-large;
+}
